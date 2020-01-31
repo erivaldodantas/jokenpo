@@ -1,10 +1,7 @@
 import React from 'react';
-import { Text, View } from 'react-native';
+
+import Game from './src/features/game';
 
 export default function App() {
-  return (
-    <View>
-      <Text>Open up App.js to start working on your app!</Text>
-    </View>
-  );
+  return <Game />;
 }

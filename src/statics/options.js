@@ -1,0 +1,5 @@
+export const OPTIONS_GAME = {
+	PEDRA: 'PEDRA',
+	PAPEL: 'PAPEL',
+	TESOURA: 'TESOURA'
+};
